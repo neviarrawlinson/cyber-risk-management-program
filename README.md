@@ -15,7 +15,6 @@ This repository is organized to reflect the core operational components of a mat
 Each section represents a critical capability required to identify, evaluate, govern, and report cybersecurity risk across the enterprise.
 Cyber Risk Management Program
 
----
 
 ├── Governance
 │   ├── Risk Governance Model
