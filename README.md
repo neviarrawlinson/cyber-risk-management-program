@@ -93,6 +93,15 @@ This blueprint aligns with widely adopted governance frameworks including:
 
 ---
 
-## Author
+## Connect With Me
 
-Neviar Rawlinson
+If you're interested in cybersecurity governance, enterprise risk management, or GRC program development, feel free to connect.
+
+• LinkedIn: https://www.linkedin.com/in/neviarr/  
+• GitHub: https://github.com/neviarrawlinson  
+• Substack (GRC Explained): https://substack.com/@ctrlaltgrc  
+• Medium: https://medium.com/@neviarrawlinson  
+• Dev.to: https://dev.to/neviarrawlinson  
+
+I regularly share resources, projects, and insights related to cybersecurity governance, risk management, and compliance programs.
+
