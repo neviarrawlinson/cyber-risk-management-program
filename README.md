@@ -1,4 +1,4 @@
-# Cyber Risk Management Program 
+# Enterprise Cyber Risk Management Program
 
 This repository provides a practical blueprint for building and operating an enterprise Cyber Risk Management program.
 
@@ -6,6 +6,33 @@ Modern organizations face complex cyber threats across cloud platforms, SaaS env
 
 This project demonstrates how a structured cyber risk program can be designed and implemented.
 
+---
+
+## Cyber Risk Program Architecture
+
+This repository is organized to reflect the core operational components of a mature cyber risk management program.
+
+Each section represents a critical capability required to identify, evaluate, govern, and report cybersecurity risk across the enterprise.
+Cyber Risk Management Program
+
+---
+
+├── Governance
+│   ├── Risk Governance Model
+│   ├── Cyber Risk Committee Charter
+│   └── Risk Decision Authority Matrix
+│
+├── Risk Framework
+│   ├── Risk Scoring Model
+│   ├── Risk Lifecycle
+│   └── Risk Register Template
+│
+├── Operations
+│   ├── Risk Ownership Model
+│   └── Risk Acceptance Process
+│
+└── Reporting
+    └── Executive Cyber Risk Dashboard
 ---
 
 ## Program Objectives
