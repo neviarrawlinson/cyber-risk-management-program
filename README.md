@@ -1,4 +1,4 @@
-# Enterprise Cyber Risk Management Program Blueprint
+# Enterprise Cyber Risk Management Program
 
 This repository provides a practical blueprint for designing and operating an enterprise Cyber Risk Management program.
 
