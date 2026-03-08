@@ -37,6 +37,40 @@ Cyber Risk Management Program
 
 ---
 
+## Cyber Risk Lifecycle Overview
+
+The diagram below illustrates how cyber risks move through the enterprise risk management process, from identification through governance oversight and executive reporting.
+
+```mermaid
+flowchart TD
+
+A[Risk Identification]
+B[Risk Assessment]
+C[Risk Scoring]
+D[Risk Register]
+E[Risk Ownership Assignment]
+F[Risk Treatment Decision]
+G[Risk Mitigation]
+H[Risk Acceptance]
+I[Risk Monitoring]
+J[Executive Risk Reporting]
+K[Cyber Risk Committee Oversight]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+F --> H
+G --> I
+H --> I
+I --> J
+J --> K
+```
+
+---
+
 ## Program Objectives
 
 The goal of this blueprint is to demonstrate how organizations can operationalize cyber risk management through clear governance, structured risk evaluation, and executive reporting.
